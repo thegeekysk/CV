@@ -1,0 +1,51 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #417D7A;
+  border-width: 7px;
+  width: 25%
+}
+
+h1 {
+  color: #1D5C63;
+}
+
+h2 {
+  color: #417D7A;
+}
+
+h3 {
+  color: #417D7A;
+}
+
+td {
+  color: #417D7A;
+}
+
+a {
+  color: #1A3C40;
+}
+
+p {
+  color: #1D5C63;
+}
+
+ul {
+  color: #1D5C63;
+}
+
+ol {
+  color: #1D5C63;
+}
+
+label {
+  color: #417D7A;
+}
+
+input {
+  color: #417D7A;
+}
